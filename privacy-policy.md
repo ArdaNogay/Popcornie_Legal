@@ -139,7 +139,7 @@ We do not sell, rent, or trade your personal information to third parties for ma
 
 ### 6.1 Access and Portability
 
-You have the right to request a copy of the personal information we hold about you. You can request this by contacting us at support@popcornie.app.
+You have the right to request a copy of the personal information we hold about you. You can request this by contacting us at ardanogay@hotmail.com.
 
 ### 6.2 Correction
 
@@ -147,7 +147,7 @@ You have the right to request correction of inaccurate personal information abou
 
 ### 6.3 Deletion (Right to Be Forgotten)
 
-You have the right to request deletion of your personal information. You can delete your account directly through the app (Profile > Delete Account) or by contacting us at support@popcornie.app.
+You have the right to request deletion of your personal information. You can delete your account directly through the app (Profile > Delete Account) or by contacting us at ardanogay@hotmail.com.
 
 When you request account deletion:
 - All personal data is permanently deleted within 30 days
@@ -164,13 +164,13 @@ Where we process your data based on your consent, you have the right to withdraw
 
 ### 6.6 Exercising Your Rights
 
-To exercise any of these rights, please contact us at support@popcornie.app. We will respond to your request within 30 days.
+To exercise any of these rights, please contact us at ardanogay@hotmail.com. We will respond to your request within 30 days.
 
 ## 7. Children's Privacy
 
 Popcornie is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.
 
-If you become aware that a child under 13 has provided us with personal information, please contact us at support@popcornie.app. If we discover that we have collected personal information from a child under 13, we will delete that information promptly.
+If you become aware that a child under 13 has provided us with personal information, please contact us at ardanogay@hotmail.com. If we discover that we have collected personal information from a child under 13, we will delete that information promptly.
 
 ## 8. Third-Party Services
 
@@ -206,7 +206,7 @@ This Privacy Policy shall be governed by and construed in accordance with the la
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** support@popcornie.app
+**Email:** ardanogay@hotmail.com
 
 **Developer:** Individual Developer
 
@@ -240,4 +240,4 @@ If you are a California resident, you have specific rights under the California 
 - **Right to Opt-Out:** You may opt out of the sale of your personal information (we do not sell personal information)
 - **Non-Discrimination:** We will not discriminate against you for exercising your rights
 
-To exercise these rights, contact us at support@popcornie.app.
+To exercise these rights, contact us at ardanogay@hotmail.com.
