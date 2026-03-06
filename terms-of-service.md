@@ -50,7 +50,7 @@ We are not liable for any loss or damage arising from your failure to comply wit
 
 ### 4.3 Account Termination
 
-You may delete your account at any time through the App settings (Profile > Delete Account) or by contacting us at support@popcornie.app.
+You may delete your account at any time through the App settings (Profile > Delete Account) or by contacting us at ardanogay@hotmail.com.
 
 We reserve the right to suspend or terminate your account at our sole discretion, including but not limited to:
 
@@ -229,7 +229,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 ### 12.2 Dispute Resolution
 
-If you have a dispute with us, you agree to first contact us at support@popcornie.app and attempt to resolve the dispute informally.
+If you have a dispute with us, you agree to first contact us at ardanogay@hotmail.com and attempt to resolve the dispute informally.
 
 If we cannot resolve the dispute informally, you agree that any dispute will be resolved through binding arbitration in accordance with the rules of the applicable arbitration organization.
 
@@ -255,7 +255,7 @@ You may terminate these Terms at any time by:
 
 - Deleting your account through the App
 - Uninstalling the App
-- Contacting us at support@popcornie.app
+- Contacting us at ardanogay@hotmail.com
 
 ### 14.2 Termination by Us
 
@@ -299,7 +299,7 @@ You may not assign or transfer these Terms without our prior written consent. We
 
 All notices required or permitted under these Terms will be in writing and delivered:
 
-- By email to support@popcornie.app
+- By email to ardanogay@hotmail.com
 - Through the App
 
 ### 15.6 Force Majeure
@@ -323,7 +323,7 @@ If you downloaded Popcornie from the Apple App Store or Google Play Store, you a
 
 For questions about these Terms, please contact us:
 
-**Email:** support@popcornie.app
+**Email:** ardanogay@hotmail.com
 
 **Developer:** Individual Developer
 
