@@ -16,11 +16,66 @@ Yes! Popcornie offers a free plan with 3 daily questions (called "popcorns"). Yo
 
 Popcornie works with any TV show. We pull show information from The Movie Database (TMDB), so you can ask about virtually any show regardless of which streaming service you use.
 
+### What is Watch Mode?
+
+Watch Mode is when you've started watching a show and set your current progress (season and episode). In Watch Mode, Popcornie's AI protects you from spoilers by ensuring all answers respect your watch progress.
+
+### What is Discovery Mode?
+
+Discovery Mode is when you haven't started watching a show yet or haven't set your progress. In this mode, you can explore shows and ask general questions without revealing plot details.
+
+### What are "popcorns"?
+
+Popcorns are Popcornie's virtual currency. Each question you ask costs 1 popcorn. Free users receive 3 popcorns daily (reset at midnight UTC). Premium subscribers get unlimited popcorns.
+
+### How do I earn more popcorns?
+
+You can:
+- Get 3 free popcorns every day (midnight UTC)
+- Purchase popcorns in the Shop tab
+- Upgrade to Premium for unlimited questions
+
 ## Account & Billing
 
 ### How do I sign up for Popcornie?
 
 You can sign up using your Apple ID or Google account. Open the app, tap "Get Started," and choose your preferred sign-in method.
+
+### How do I add shows to my library?
+
+To add a show:
+1. Search for the show using the search bar on the Home screen
+2. Tap on the show from the results
+3. Tap "Add to My Shows"
+4. Set your current watch progress (season and episode)
+
+### How do I update my watch progress?
+
+You can update your progress anytime:
+1. Go to your My Shows library
+2. Tap on the show
+3. Tap the progress indicator
+4. Select your current season and episode
+
+### How do I change my account settings?
+
+To change your account settings:
+1. Go to the Profile tab
+2. Tap on the setting you want to change:
+   - **Display Name:** Tap your name at the top
+   - **AI Response Language:** Tap "AI Response Language"
+   - **Notifications:** Tap "Notifications"
+   - **Theme:** Tap "Theme" (Light/Dark/System)
+
+### How do I change the AI response language?
+
+To change the language Popcornie uses to answer your questions:
+1. Go to the Profile tab
+2. Tap "AI Response Language"
+3. Select your preferred language
+4. Tap "Save"
+
+Popcornie supports 15+ languages including English, Turkish, Spanish, French, German, Chinese, Japanese, Korean, and more.
 
 ### How do I restore my purchases?
 
@@ -48,21 +103,17 @@ This action is permanent and cannot be undone. All your data will be deleted wit
 
 ## Using Popcornie
 
-### How do I set my watch progress?
-
-When you search for a show, you'll be prompted to set your current season and episode. You can update this anytime by tapping the progress indicator on the show detail screen.
-
 ### Why are some answers blocked?
 
 Popcornie protects you from spoilers by blocking answers that mention events beyond your current watch progress. If an answer is blocked, it means the information would reveal something you haven't seen yet. You can adjust your progress if you've watched further.
 
-### What languages does Popcornie support?
-
-You can change the AI response language in Profile > AI Response Language. Popcornie supports 15+ languages including English, Turkish, Spanish, French, German, Chinese, Japanese, Korean, and more.
-
 ### Where do my questions go?
 
 Questions you've asked are stored in your "Popcorn History" (Profile > Popcorn History). You can review past questions and their answers there.
+
+### What languages does Popcornie support?
+
+You can change the AI response language in Profile > AI Response Language. Popcornie supports 15+ languages including English, Turkish, Spanish, French, German, Chinese, Japanese, Korean, and more.
 
 ## Troubleshooting
 
