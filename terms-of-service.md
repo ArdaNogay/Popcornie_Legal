@@ -1,358 +1,195 @@
 # Terms of Service
 
-**Last Updated:** March 2026
+Last Updated: 2026-05-02
 
-## 1. Agreement to Terms
+## 1. Agreement
 
-By downloading, installing, or using the Popcornie mobile application ("Popcornie" or "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, accessing, or using Popcornie, you agree to these Terms of Service.
 
-## 2. Description of Service
+If you do not agree, do not use the app.
 
-Popcornie is an AI-powered mobile application that provides spoiler-free information about TV shows. The App allows users to:
+## 2. What Popcornie Is
 
-- Search and discover TV shows
-- Set their watch progress (season and episode)
-- Ask AI-powered questions about shows they've watched
-- Build a personal library of shows
-- Purchase popcorn credits or subscribe to Premium
+Popcornie is a mobile application for:
 
-The service is provided "as is" and we reserve the right to modify, suspend, or discontinue any part of the service at any time.
+- discovering TV shows
+- adding shows to a personal library
+- tracking season and episode progress
+- asking spoiler-safe AI questions
+- purchasing popcorn packs
+- subscribing to Premium
+
+The service may change over time. Features may be modified, suspended, or removed.
 
 ## 3. Eligibility
 
-You must be at least 13 years old to use Popcornie. By using the App, you represent and warrant that:
+You must be at least 13 years old to use Popcornie.
 
-- You are at least 13 years of age
-- You have the legal capacity to enter into these Terms
-- You will comply with these Terms and all applicable laws
+By using the app, you represent that:
 
-## 4. User Accounts
+- you are at least 13 years old
+- the information you provide is accurate
+- you will use the service lawfully
 
-### 4.1 Account Creation
+## 4. Accounts
 
-To use Popcornie, you must create an account. You can create an account using:
+### 4.1 Creating an account
 
-- Apple Sign-In
-- Google Sign-In
-- Email and password
+Popcornie currently supports these sign-in methods:
 
-You agree to provide accurate, current, and complete information during registration and to update such information to keep it accurate, current, and complete.
+- email and password
+- Apple Sign In
+- Google Sign In
 
-### 4.2 Account Security
+You are responsible for keeping your login credentials secure.
 
-You are responsible for:
+### 4.2 Account responsibility
 
-- Maintaining the confidentiality of your account credentials
-- All activities that occur under your account
-- Immediately notifying us of any unauthorized use of your account
+You are responsible for activity that occurs under your account.
 
-We are not liable for any loss or damage arising from your failure to comply with these obligations.
+If you believe your account is compromised, contact us promptly.
 
-### 4.3 Account Termination
+### 4.3 Account deletion
 
-You may delete your account at any time through the App settings (Profile > Delete Account) or by contacting us at ardanogay@hotmail.com.
+You can request account deletion from:
 
-We reserve the right to suspend or terminate your account at our sole discretion, including but not limited to:
+- Profile -> Danger Zone -> Delete Account
 
-- Violation of these Terms
-- Fraudulent or illegal activity
-- Non-payment of any fees or charges
+Current app behavior includes a 30-day recovery period before permanent deletion is executed.
 
-## 5. User Conduct and Responsibilities
+## 5. Acceptable Use
 
-### 5.1 Acceptable Use
+You agree not to:
 
-You agree not to use Popcornie to:
+- break the law through your use of the app
+- interfere with the app, backend, or related systems
+- attempt unauthorized access
+- abuse purchases, entitlements, or billing flows
+- reverse engineer or misuse the service
+- use automation or scraping in a way that harms the service
 
-- Violate any applicable laws, regulations, or third-party rights
-- Post or transmit harmful, offensive, or inappropriate content
-- Attempt to gain unauthorized access to our systems
-- Interfere with or disrupt the App or servers
-- Use the App for any illegal or unauthorized purpose
-- Harass, abuse, or harm other users
-- Impersonate any person or entity
+## 6. User Content
 
-### 5.2 Prohibited Activities
+You are responsible for content you submit, including:
 
-The following activities are strictly prohibited:
+- questions you ask
+- support messages you send
 
-- Reverse engineering or decompiling the App
-- Removing or modifying any proprietary notices
-- Using the App to develop a competing product or service
-- Scraping or harvesting data from the App
-- Automated queries (bots) without authorization
-- Circumventing security measures or spoiler protection systems
+You grant us the limited rights needed to process that content in order to operate Popcornie.
 
-### 5.3 User Content
+## 7. TV Metadata, AI Output, and Third-Party Services
 
-You are solely responsible for any content you submit to the App, including:
+Popcornie depends on third-party services, including:
 
-- Questions you ask about shows
-- Comments or feedback you provide
+- TMDB for TV show metadata and images
+- Google Gemini models for AI-generated answers
+- Supabase for auth and backend services
+- RevenueCat for purchase and entitlement handling
 
-By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, and display such content in connection with providing the service.
+Important:
 
-## 6. Intellectual Property Rights
+- TMDB and other third-party content remain subject to their own rights and terms.
+- Popcornie is not endorsed by TMDB.
+- AI responses may be incomplete, inaccurate, or imperfect.
+- We aim to reduce spoilers, but we do not guarantee that every response will be spoiler-free.
 
-### 6.1 App Ownership
+## 8. Purchases, Popcorn, and Premium
 
-Popcornie and all content, features, and functionality are owned by the developer and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
+### 8.1 Free popcorn
 
-### 6.2 Third-Party Content
+Current free-plan behavior at launch:
 
-The App includes content from third parties, including:
+- free users receive 3 free popcorn weekly
+- the refill is scheduled for Friday at 12:00 UTC
+- unused free popcorn does not roll over
 
-- Show information from TMDB (The Movie Database)
-- AI responses generated by Google Gemini
+### 8.2 Purchased popcorn
 
-You may not copy, modify, distribute, sell, or lease any part of the App without our prior written consent.
+- purchased popcorn is sold through the Apple App Store or Google Play Store
+- purchase availability and pricing are shown in the store purchase sheet
+- purchased popcorn has no cash value
+- purchased popcorn does not expire unless required by law or store/platform policy
 
-### 6.3 Trademarks
+### 8.3 Premium subscription
 
-"Popcornie" and the Popcornie logo are trademarks of the developer. You may not use these trademarks without our prior written permission.
+At launch, Popcornie offers one monthly auto-renewing Premium subscription.
 
-## 7. Popcorn Economy and Payments
+The current paid monthly Premium subscription includes:
 
-### 7.1 Popcorn Credits
+- 150 Premium popcorn per paid monthly period
+- a 100-show saved-library limit
+- full per-show chat history
 
-Popcornie uses a virtual currency called "Popcorn" (🍿):
+Premium popcorn is used before free and purchased popcorn. Unused Premium popcorn does not roll over into the next paid period and is removed or disabled when Premium access ends. Premium does not remove popcorn costs; asking questions still requires available usable popcorn.
 
-- Free users receive 3 free Popcorn per day (reset at midnight UTC)
-- Popcorn can be purchased in packages
-- Each question costs 1 Popcorn
-- Popcorn has no cash value and is non-refundable
+Premium benefits are determined by the app's current offering and purchase configuration, which may change over time.
 
-### 7.2 Purchasing Popcorn
+### 8.4 Billing and cancellation
 
-When you purchase Popcorn packages:
+- billing is handled by Apple or Google, not directly by Popcornie
+- restore purchases is available inside the app
+- subscription cancellation must be done through the relevant app store account settings
+- deleting your Popcornie account does not itself cancel App Store or Google Play billing
+- cancellation stops future billing through the store but does not automatically refund unused subscription time
 
-- Prices are displayed in your local currency
-- Purchases are processed through the Apple App Store or Google Play Store
-- All purchases are final and non-refundable unless required by law
-- You are responsible for any taxes associated with your purchases
+## 9. Intellectual Property
 
-### 7.3 Premium Subscription
+Popcornie, its app design, branding, and code are protected by applicable intellectual property law.
 
-Popcornie offers a Premium subscription:
+You may not copy, modify, redistribute, or exploit the app except as allowed by law or with written permission.
 
-- **Monthly:** $5.99/month
-- **Benefits:** Unlimited questions, full season recaps
+Third-party names, logos, and content remain the property of their respective owners.
 
-Subscriptions are:
+## 10. Privacy
 
-- Billed through Apple App Store or Google Play Store
-- Auto-renewing unless cancelled
-- Subject to the terms of Apple or Google
-- Non-refundable after the billing period begins
+Your use of Popcornie is also governed by the Privacy Policy.
 
-### 7.4 Price Changes
+Use the published privacy policy URL associated with the current release for the most current disclosure.
 
-We reserve the right to modify pricing at any time. Price changes will be communicated at least 30 days before taking effect. Continued use after a price change constitutes acceptance of the new price.
+## 11. Availability and Changes
 
-## 8. Privacy and Data
+We do not guarantee that the app will always be available, uninterrupted, or error-free.
 
-Your privacy is important to us. Please review our [Privacy Policy](/privacy-policy.md), which describes how we collect, use, and protect your information.
+We may:
 
-By using Popcornie, you consent to the collection and processing of your data as described in the Privacy Policy.
+- update the service
+- change features
+- change pricing
+- remove or replace content sources
+- suspend or terminate abusive accounts
 
-## 9. AI-Generated Content
+## 12. Disclaimers
 
-### 9.1 Nature of AI Responses
+Popcornie is provided on an "as is" and "as available" basis to the fullest extent permitted by law.
 
-Popcornie uses Google Gemini 3.1 AI to generate responses to your questions. Key points:
+We do not guarantee:
 
-- Responses are generated automatically and may contain errors
-- We strive for accuracy but cannot guarantee correctness
-- AI responses are based on publicly available show information
+- uninterrupted service
+- error-free behavior
+- perfect spoiler prevention
+- perfect AI accuracy
 
-### 9.2 Spoiler Protection
+## 13. Limitation of Liability
 
-Popcornie is designed to prevent spoilers by:
+To the maximum extent permitted by law, we are not liable for indirect, incidental, special, consequential, or punitive damages arising from your use of Popcornie.
 
-- Only providing information up to your selected progress point
-- Using multi-layer validation to detect potential spoilers
-- Filtering content that may reveal future plot points
-
-However, we cannot guarantee 100% spoiler-free responses. Use the app at your own risk.
-
-### 9.3 Content Responsibility
-
-The developer is not responsible for:
-
-- Inaccurate or outdated show information
-- AI-generated responses that may contain errors
-- Spoilers that may slip through our protection systems
-
-## 10. Disclaimers and Limitation of Liability
-
-### 10.1 "As Is" Basis
-
-THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-### 10.2 No Guarantee
-
-WE DO NOT GUARANTEE THAT:
-
-- THE APP WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE
-- ANY DEFECTS WILL BE CORRECTED
-- THE APP WILL MEET YOUR REQUIREMENTS
-
-### 10.3 Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE DEVELOPER SHALL NOT BE LIABLE FOR:
-
-- INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
-- LOSS OF PROFITS, REVENUE, DATA, OR USE
-- ANY DAMAGE ARISING FROM YOUR USE OF OR INABILITY TO USE THE APP
-- ANY THIRD-PARTY CONDUCT OR CONTENT ON THE APP
-
-YOUR SOLE REMEDY FOR DISSATISFACTION WITH THE APP IS TO STOP USING IT.
-
-### 10.4 Total Liability
-
-OUR TOTAL LIABILITY FOR ANY CLAIM ARISING FROM OR RELATING TO THESE TERMS OR THE APP SHALL NOT EXCEED THE AMOUNT YOU PAID FOR POPCORN OR PREMIUM SERVICES (IF ANY) IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
-
-## 11. Indemnification
-
-You agree to indemnify, defend, and hold harmless the developer and its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, or expenses (including reasonable attorneys' fees) arising out of:
-
-- Your use of the App
-- Your violation of these Terms
-- Your violation of any third-party rights
-- Your User Content
-
-## 12. Governing Law and Disputes
-
-### 12.1 Governing Law
-
-These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the developer is located, without regard to its conflict of law provisions.
-
-### 12.2 Dispute Resolution
-
-If you have a dispute with us, you agree to first contact us at ardanogay@hotmail.com and attempt to resolve the dispute informally.
-
-If we cannot resolve the dispute informally, you agree that any dispute will be resolved through binding arbitration in accordance with the rules of the applicable arbitration organization.
-
-### 12.3 Exceptions
-
-Notwithstanding the foregoing, we retain the right to seek injunctive or other equitable relief in any jurisdiction to protect our intellectual property rights.
-
-## 13. Changes to Terms
-
-We may modify these Terms at any time. When we make material changes, we will:
-
-- Update the "Last Updated" date at the top of these Terms
-- Provide at least 30 days' notice before changes take effect
-- Notify you through the App or via email (if you have provided your email)
-
-Your continued use of Popcornie after any changes constitutes acceptance of the new Terms. If you do not agree to the new Terms, you must stop using the App.
+If the law requires liability, it will be limited to the amount you paid for Popcornie purchases in the 12 months before the claim, to the extent permitted by law.
 
 ## 14. Termination
 
-### 14.1 Termination by You
+We may suspend or terminate access if you violate these Terms, misuse the service, or create security, billing, or legal risk.
 
-You may terminate these Terms at any time by:
+You may stop using the app at any time and may request account deletion through the app.
 
-- Deleting your account through the App
-- Uninstalling the App
-- Contacting us at ardanogay@hotmail.com
+## 15. Changes to These Terms
 
-### 14.2 Termination by Us
+We may update these Terms from time to time.
 
-We may terminate these Terms and your access to Popcornie at any time, with or without cause, upon notice to you.
+When we do, we will update the "Last Updated" date. Material changes may also be communicated in app or through other appropriate channels.
 
-Upon termination:
+## 16. Contact
 
-- Your right to use the App immediately ceases
-- All licenses and rights granted to you under these Terms end
-- We may delete your account and data in accordance with our Privacy Policy
+For questions about these Terms, contact:
 
-### 14.3 Survival
-
-The following sections shall survive termination:
-
-- Section 6 (Intellectual Property Rights)
-- Section 10 (Disclaimers and Limitation of Liability)
-- Section 11 (Indemnification)
-- Section 12 (Governing Law and Disputes)
-- Section 15 (General Provisions)
-
-## 15. General Provisions
-
-### 15.1 Entire Agreement
-
-These Terms constitute the entire agreement between you and us regarding your use of the App and supersede all prior agreements and understandings.
-
-### 15.2 Severability
-
-If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue in full force and effect.
-
-### 15.3 Waiver
-
-Our failure to enforce any right or provision of these Terms does not constitute a waiver of such right or provision.
-
-### 15.4 Assignment
-
-You may not assign or transfer these Terms without our prior written consent. We may assign these Terms at any time without restriction.
-
-### 15.5 Notices
-
-All notices required or permitted under these Terms will be in writing and delivered:
-
-- By email to ardanogay@hotmail.com
-- Through the App
-
-### 15.6 Force Majeure
-
-We will not be liable for any failure or delay in performing our obligations where such failure or delay results from circumstances beyond our reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes, or shortages of transportation, facilities, fuel, energy, labor, or materials.
-
-## 16. Third-Party Rights
-
-These Terms are for the benefit of you and us. There are no third-party beneficiaries.
-
-## 17. Apple App Store and Google Play Store
-
-If you downloaded Popcornie from the Apple App Store or Google Play Store, you acknowledge that:
-
-- These Terms are between you and us, not with Apple or Google
-- Apple and Google have no responsibility for the App
-- The license granted is limited to a non-transferable license to use the App on devices you own or control
-- Apple and Google are third-party beneficiaries of these Terms
-
-## 18. Contact Information
-
-For questions about these Terms, please contact us:
-
-**Email:** ardanogay@hotmail.com
-
-**Developer:** Individual Developer
-
----
-
-## Schedule A: Specific Service Rules
-
-### AI Question Answering
-
-1. Questions must relate to TV shows in our database
-2. The App filters responses to avoid spoilers based on your watch progress
-3. We reserve the right to refuse to answer questions that violate our content policies
-4. AI responses are generated in real-time and may vary
-
-### Show Library
-
-1. You may add shows to your personal library
-2. You may remove shows from your library at any time
-3. We reserve the right to remove shows from our database without notice
-4. Library data is synced to your account and accessible across devices
-
-### Popcorn Economy
-
-1. Popcorn balance is displayed in the App
-2. Free daily Popcorn resets at midnight UTC
-3. Unused daily Popcorn do not roll over
-4. Purchased Popcorn do not expire
-5. We reserve the right to modify the Popcorn economy at any time
-
----
-
-**By using Popcornie, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**
+- Developer: Arda Nogay
+- Email: `ardanogay@hotmail.com`
