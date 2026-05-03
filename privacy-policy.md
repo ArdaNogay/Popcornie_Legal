@@ -1,243 +1,165 @@
 # Privacy Policy
 
-**Last Updated:** March 2026
+Last Updated: 2026-05-02
 
 ## 1. Introduction
 
-Welcome to Popcornie ("we," "our," or "us"). Popcornie is a mobile application that provides AI-powered, spoiler-free information about TV shows. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Popcornie is a mobile application for spoiler-safe TV show discovery, watch-progress tracking, and AI-assisted Q&A. This Privacy Policy explains what information we collect, how we use it, which service providers are involved, and what choices you have.
 
-By downloading or using Popcornie, you agree to the collection and use of information in accordance with this policy. If you do not agree with the terms of this Privacy Policy, please do not use the app.
+If you do not agree with this Privacy Policy, do not use Popcornie.
 
 ## 2. Information We Collect
 
-### 2.1 Information You Provide Directly
+### 2.1 Information you provide directly
 
-**Account Information:**
-- Email address (when you sign up)
-- Full name (optional, provided via Apple Sign-In or Google Sign-In)
-- Profile preferences (such as preferred language for AI responses)
+We may collect:
 
-**Authentication Data:**
-- When you sign in with Apple or Google, we receive authentication tokens from those providers
-- We do not store your Apple or Google passwords
+- Email address
+- Password, when you choose email/password sign-up
+- Full name, when provided directly or returned by Apple Sign In / Google Sign In
+- Preferred AI response language
+- TV shows you add to your library
+- Watch progress such as season and episode
+- Questions you ask in the app
+- Chat history connected to your questions and AI answers
+- Support messages you choose to send to us by email
 
-**User Content:**
-- Questions you ask about TV shows
-- Shows you add to your library
-- Preferences and settings you configure
+### 2.2 Information collected through app functionality
 
-### 2.2 Information Collected Automatically
+To operate the service, we also process:
 
-**Usage Data:**
-- Device type and operating system
-- App version
-- Session duration and frequency
-- Features used within the app
+- User account identifiers created through Supabase Auth
+- RevenueCat customer and entitlement identifiers used for purchases
+- Purchase and subscription status
+- Popcorn balance and popcorn transaction history
+- Show search requests sent through our backend and TMDB-powered search flow
 
-**Transaction Data:**
-- Purchase history (via RevenueCat)
-- Popcorn balance and transaction history
+### 2.3 Information we do not knowingly collect as part of the current app
 
-**Analytics Data:**
-- Crash reports
-- Performance metrics
-- Anonymous usage statistics
+Based on the current shipped app and repository state, Popcornie does not knowingly use:
 
-### 2.3 Information from Third Parties
+- Cross-app tracking for advertising
+- Ad network SDKs
+- Location data
+- Contacts
+- Photos
+- Camera
+- Microphone
+- Health data
 
-**Authentication Providers:**
-- Apple (for Apple Sign-In)
-- Google (for Google Sign-In)
+## 3. How We Use Information
 
-**External Services:**
-- The Movie Database (TMDB): Show information, posters, and metadata
-- RevenueCat: Subscription and purchase management
-- Supabase: Authentication and database services
-- Google Gemini 3.1: AI-powered question answering
+We use information to:
 
-## 3. How We Use Your Information
-
-### 3.1 To Provide Our Services
-
-- Authenticate your account and maintain your session
-- Process and respond to your questions about TV shows
-- Track your watch progress and provide relevant information
-- Manage your popcorn balance and premium subscription
-- Store your show library and preferences
-
-### 3.2 To Improve Our Services
-
-- Analyze usage patterns to improve app functionality
-- Fix bugs and resolve technical issues
-- Develop new features based on user feedback
-- Train and improve our AI models (Gemini 3.1)
-
-### 3.3 To Communicate With You
-
-- Send account-related notifications (when necessary)
-- Respond to your support requests
-- Provide important updates about the service
-
-### 3.4 For Legal and Security Purposes
-
-- Detect and prevent fraud, abuse, and security incidents
+- Create and secure user accounts
+- Sign users in with email/password, Apple, or Google
+- Store and sync show library and watch progress
+- Generate spoiler-safe AI answers
+- Maintain popcorn balances, purchases, and premium access
+- Process restore purchases and subscription sync
+- Personalize app experiences or recommendations if recommendation features are included in the active release
+- Respond to support requests you send us
+- Detect abuse, fraud, and security issues
 - Comply with legal obligations
-- Enforce our Terms of Service
 
-## 4. Data Storage and Security
+## 4. Service Providers and Third Parties
 
-### 4.1 Where Your Data Is Stored
+Popcornie relies on third-party services to function.
 
-Your personal information is stored on servers operated by Supabase, our backend service provider, which is located in the United States. By using Popcornie, you consent to the transfer of your data to the United States.
+| Provider | Purpose |
+| --- | --- |
+| Supabase | Authentication, database, backend functions |
+| RevenueCat | Subscription and in-app purchase management |
+| Apple | Apple Sign In and App Store purchase processing |
+| Google | Google Sign In and AI model infrastructure |
+| TMDB | TV show metadata, posters, and related content |
 
-### 4.2 How We Protect Your Data
+### 4.1 What may be shared
 
-We implement appropriate technical and organizational measures to protect your personal information, including:
+Depending on the action you take in the app, limited data may be shared with these providers, such as:
 
-- Encryption of data in transit (TLS/SSL)
-- Secure authentication via Supabase Auth
-- Row-level security in our database
-- Regular security reviews and updates
+- Authentication tokens or account identity data for sign-in
+- Purchase and entitlement state for billing
+- Show search requests and show identifiers for TV metadata lookup
+- Question text and context needed to generate AI responses
 
-### 4.3 Data Retention
+We do not sell your personal information.
 
-We retain your personal information only for as long as necessary to provide you with services and for the purposes set out in this Privacy Policy:
+We do not use your data for cross-app advertising tracking.
 
-- **Account data:** Retained until you delete your account
-- **Questions and library:** Retained until you delete your account
-- **Transaction history:** Retained for 7 years for tax and legal compliance
-- **Analytics data:** Anonymized after 12 months
+## 5. App Privacy Disclosure Summary
 
-## 5. Sharing Your Information
+The current app behavior supports the following App Store privacy disclosures:
 
-### 5.1 Service Providers
+- Tracking: No
+- Contact Info: Yes
+- User Content: Yes
+- Identifiers: Yes
+- Purchases: Yes
+- Search History: Yes, using a conservative disclosure because show search text is sent from the app into the backend/TMDB search flow
 
-We may share your information with third-party service providers who assist us in operating our app and providing services:
+If the app later adds analytics, crash reporting, ads, or new SDKs, these disclosures may need to change.
 
-| Service Provider | Purpose | Data Shared |
-|-----------------|---------|-------------|
-| Supabase | Database & Authentication | User profile, questions, library |
-| RevenueCat | Subscription Management | Purchase history, device identifiers |
-| Apple | Sign-In | Name, email (if permitted) |
-| Google | Sign-In | Name, email |
-| TMDB | Show Information | Show search queries |
-| Google Gemini | AI Processing | Questions (processed securely) |
+## 6. Data Retention
 
-### 5.2 Legal Requirements
+We keep data for as long as it is needed to provide the service and operate your account.
 
-We may disclose your information when required by law or in response to valid requests by public authorities (e.g., court orders, subpoenas).
+Current app behavior:
 
-### 5.3 Business Transfers
+- Account data, show library, watch progress, and questions stay associated with your account while it is active.
+- If you request account deletion in the app, your account enters a 30-day recovery window before permanent deletion is executed.
+- Apple, Google, RevenueCat, and other service providers may retain their own store, fraud, tax, or operational records according to their own policies.
 
-If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction. We will notify you before your personal information becomes subject to a different privacy policy.
+We avoid making broader retention promises than the current system guarantees.
 
-### 5.4 No Sale of Personal Information
+## 7. Account Deletion and Your Rights
 
-We do not sell, rent, or trade your personal information to third parties for marketing purposes.
+You can request account deletion inside the app:
 
-## 6. Your Rights
+- Profile -> Danger Zone -> Delete Account
 
-### 6.1 Access and Portability
+Current deletion flow:
 
-You have the right to request a copy of the personal information we hold about you. You can request this by contacting us at ardanogay@hotmail.com.
+- You confirm deletion in the app
+- Your account is scheduled for deletion
+- You are signed out immediately
+- You have a 30-day recovery period to sign back in and cancel the deletion request
+- After that window, deletion is intended to become permanent
 
-### 6.2 Correction
+You may also contact us to request help with access, correction, or deletion questions.
 
-You have the right to request correction of inaccurate personal information about you.
+## 8. International Transfers
 
-### 6.3 Deletion (Right to Be Forgotten)
+Popcornie uses cloud services and third-party providers that may process information in countries other than your own, including the United States.
 
-You have the right to request deletion of your personal information. You can delete your account directly through the app (Profile > Delete Account) or by contacting us at ardanogay@hotmail.com.
+By using Popcornie, you understand that your information may be processed through those providers in order to deliver the service.
 
-When you request account deletion:
-- All personal data is permanently deleted within 30 days
-- This includes your profile, library, questions, and transaction history
-- Some data may be retained in anonymized form for analytics purposes
+## 9. Children's Privacy
 
-### 6.4 Objection and Restriction
+Popcornie is not intended for children under 13.
 
-You have the right to object to or restrict the processing of your personal information in certain circumstances.
+If you believe a child under 13 has provided personal information through the app, contact us and we will review the request.
 
-### 6.5 Withdraw Consent
+## 10. Security
 
-Where we process your data based on your consent, you have the right to withdraw that consent at any time.
+We use reasonable technical and organizational measures to help protect the service, including:
 
-### 6.6 Exercising Your Rights
+- TLS/HTTPS for data in transit
+- Auth and session handling through Supabase
+- Access controls and server-side authorization checks
+- Purchase validation and entitlement sync through RevenueCat-backed flows
 
-To exercise any of these rights, please contact us at ardanogay@hotmail.com. We will respond to your request within 30 days.
+No internet service can guarantee absolute security.
 
-## 7. Children's Privacy
+## 11. Changes to This Policy
 
-Popcornie is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.
+We may update this Privacy Policy from time to time.
 
-If you become aware that a child under 13 has provided us with personal information, please contact us at ardanogay@hotmail.com. If we discover that we have collected personal information from a child under 13, we will delete that information promptly.
+When we do, we will update the "Last Updated" date on this page. If a change is material, we may also communicate it through the app or other appropriate channels.
 
-## 8. Third-Party Services
+## 12. Contact
 
-Popcornie integrates with third-party services. Each third-party service has its own privacy policy that governs how they collect and use your information. We encourage you to review the privacy policies of these services:
+If you have privacy questions, contact:
 
-- **Apple:** https://www.apple.com/legal/privacy/
-- **Google:** https://policies.google.com/privacy
-- **Supabase:** https://supabase.com/privacy
-- **RevenueCat:** https://www.revenuecat.com/privacy/
-- **TMDB:** https://www.themoviedb.org/privacy
-
-## 9. International Data Transfers
-
-Your information may be transferred to and maintained on computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those in your jurisdiction.
-
-If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including personal information, to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-For users in the European Economic Area (EEA): We comply with GDPR requirements for international data transfers. Where applicable, we use Standard Contractual Clauses to ensure adequate protection.
-
-## 10. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
-
-**We will notify you at least 30 days before any material changes take effect** through an in-app notification or email (if you have provided your email address).
-
-Your continued use of Popcornie after any changes indicates your acceptance of the new terms.
-
-## 11. Governing Law
-
-This Privacy Policy shall be governed by and construed in accordance with the laws of the jurisdiction in which the developer is located, without regard to its conflict of law provisions.
-
-## 12. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-
-**Email:** ardanogay@hotmail.com
-
-**Developer:** Individual Developer
-
----
-
-## Appendix A: Data Processing Summary
-
-| Data Category | Legal Basis | Retention |
-|---------------|-------------|-----------|
-| Account credentials | Contract performance | Until deletion |
-| Profile information | Consent / Contract | Until deletion |
-| Questions asked | Contract performance | Until deletion |
-| Show library | Contract performance | Until deletion |
-| Transaction history | Legal obligation | 7 years |
-| Device information | Legitimate interest | 12 months |
-| Analytics data | Consent | 12 months |
-
-## Appendix B: Cookie and Tracking Technologies
-
-Popcornie does not use cookies for tracking. We may use anonymous identifiers for:
-
-- Session management (required for app functionality)
-- Analytics (anonymized, with consent)
-
-## Appendix C: California Resident Rights (CCPA)
-
-If you are a California resident, you have specific rights under the California Consumer Privacy Act (CCPA):
-
-- **Right to Know:** You may request disclosure of the categories and specific pieces of personal information collected
-- **Right to Delete:** You may request deletion of your personal information
-- **Right to Opt-Out:** You may opt out of the sale of your personal information (we do not sell personal information)
-- **Non-Discrimination:** We will not discriminate against you for exercising your rights
-
-To exercise these rights, contact us at ardanogay@hotmail.com.
+- Developer: Arda Nogay
+- Email: `ardanogay@hotmail.com`
