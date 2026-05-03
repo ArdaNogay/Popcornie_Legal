@@ -1,167 +1,157 @@
-# Frequently Asked Questions
+# Support and FAQ
 
-Find answers to common questions about Popcornie below. Can't find what you're looking for? Use the "Help & Feedback" option in the app to contact us.
+Last Updated: 2026-05-02
+
+Use this page as the public support page for Popcornie.
+
+Support contact:
+
+- Email: `ardanogay@hotmail.com`
 
 ## General
 
 ### What is Popcornie?
 
-Popcornie is an AI-powered mobile app that lets you ask questions about TV shows without worrying about spoilers. You set your watch progress (which season/episode you're on), and our AI ensures all answers are spoiler-free.
+Popcornie is a spoiler-safe TV companion app. You can search for shows, track your watch progress, and ask AI-powered questions without intentionally jumping ahead of the episodes you have watched.
 
 ### Is Popcornie free to use?
 
-Yes! Popcornie offers a free plan with 3 daily questions (called "popcorns"). You can also purchase additional popcorns or upgrade to Premium for unlimited questions.
+Yes. Popcornie has a free plan and also offers in-app purchases.
 
-### Which streaming services does Popcornie support?
+### What are popcorns?
 
-Popcornie works with any TV show. We pull show information from The Movie Database (TMDB), so you can ask about virtually any show regardless of which streaming service you use.
+Popcorns are the in-app units used to ask questions.
 
-### What is Watch Mode?
+- Each question costs 1 popcorn
+- Free users receive 3 free popcorn weekly
+- The weekly refill is scheduled for Friday at 12:00 UTC
+- Paid monthly Premium subscribers receive 150 Premium popcorn per paid period
+- Premium popcorn resets each paid monthly period and does not roll over
+- Purchased popcorn does not expire
+- Popcorn is spent in this order: Premium, then free, then purchased
+- If all usable popcorn is depleted, asking questions requires a refill or purchase even for Premium subscribers
 
-Watch Mode is when you've started watching a show and set your current progress (season and episode). In Watch Mode, Popcornie's AI protects you from spoilers by ensuring all answers respect your watch progress.
+### Which sign-in methods are supported?
 
-### What is Discovery Mode?
+Popcornie currently supports:
 
-Discovery Mode is when you haven't started watching a show yet or haven't set your progress. In this mode, you can explore shows and ask general questions without revealing plot details.
+- email and password
+- Apple Sign In
+- Google Sign In
 
-### What are "popcorns"?
+## Using the app
 
-Popcorns are Popcornie's virtual currency. Each question you ask costs 1 popcorn. Free users receive 3 popcorns daily (reset at midnight UTC). Premium subscribers get unlimited popcorns.
+### How do I add a show to my library?
 
-### How do I earn more popcorns?
+1. Open Home
+2. Search for a TV show
+3. Open the result
+4. Tap continue / add flow
+5. Choose discovery mode or set your season and episode progress
 
-You can:
-- Get 3 free popcorns every day (midnight UTC)
-- Purchase popcorns in the Shop tab
-- Upgrade to Premium for unlimited questions
+### What is discovery mode?
 
-## Account & Billing
+Discovery mode is for shows you have not started yet. The app should stay at a high level and avoid discussing plot details beyond that context.
 
-### How do I sign up for Popcornie?
+### What is watch mode?
 
-You can sign up using your Apple ID or Google account. Open the app, tap "Get Started," and choose your preferred sign-in method.
+Watch mode is for shows you are already watching. You set your current season and episode so the app can avoid answering beyond that point.
 
-### How do I add shows to my library?
+### Why was an answer blocked?
 
-To add a show:
-1. Search for the show using the search bar on the Home screen
-2. Tap on the show from the results
-3. Tap "Add to My Shows"
-4. Set your current watch progress (season and episode)
+If a response may reveal information beyond your saved watch progress, the app can block or limit the answer to reduce spoiler risk.
 
-### How do I update my watch progress?
+## Billing and purchases
 
-You can update your progress anytime:
-1. Go to your My Shows library
-2. Tap on the show
-3. Tap the progress indicator
-4. Select your current season and episode
+### How do I buy more popcorn?
 
-### How do I change my account settings?
+Open the Shop tab and choose one of the available popcorn packs.
 
-To change your account settings:
-1. Go to the Profile tab
-2. Tap on the setting you want to change:
-   - **Display Name:** Tap your name at the top
-   - **AI Response Language:** Tap "AI Response Language"
-   - **Notifications:** Tap "Notifications"
-   - **Theme:** Tap "Theme" (Light/Dark/System)
+### How do I upgrade to Premium?
 
-### How do I change the AI response language?
+Open the Shop tab and use the Premium purchase flow.
 
-To change the language Popcornie uses to answer your questions:
-1. Go to the Profile tab
-2. Tap "AI Response Language"
-3. Select your preferred language
-4. Tap "Save"
+Premium currently includes:
 
-Popcornie supports 15+ languages including English, Turkish, Spanish, French, German, Chinese, Japanese, Korean, and more.
+- 150 Premium popcorn per paid monthly period
+- a 100-show saved-library limit
+- full per-show chat history
 
-### How do I restore my purchases?
+Free users currently have a 15-show saved-library limit and can review the latest 16 chat bubbles per show.
 
-If you've purchased popcorns or a Premium subscription on another device, go to Profile > Restore Purchases. Make sure you're signed in with the same Apple ID or Google account you used for the original purchase.
+### How do I restore purchases?
+
+Go to:
+
+- Profile -> Restore Purchases
+
+Use the same Apple ID or Google account that was used for the original purchase.
 
 ### How do I cancel my subscription?
 
-Subscriptions are managed through your device's app store:
+Subscriptions are managed by the app store account that billed you.
 
-- **iOS:** Go to Settings > [Your Name] > Subscriptions > Popcornie
-- **Android:** Go to Play Store > Profile > Payments & subscriptions > Subscriptions
+- iOS: Settings -> [Your Name] -> Subscriptions -> Popcornie
+- Android: Play Store -> Profile -> Payments and subscriptions -> Subscriptions
 
-Note: Cancelling stops future billing but doesn't refund unused time.
+Deleting your Popcornie account does not automatically cancel store billing.
+
+## Account and privacy
+
+### How do I change my display name or language?
+
+Open Profile and update the relevant setting from the account section.
 
 ### How do I delete my account?
 
-To delete your account and all associated data:
+Go to:
 
-1. Open the Popcornie app
-2. Go to Profile tab
-3. Scroll down to "Danger Zone"
-4. Tap "Delete Account"
+- Profile -> Danger Zone -> Delete Account
 
-This action is permanent and cannot be undone. All your data will be deleted within 30 days.
-
-## Using Popcornie
-
-### Why are some answers blocked?
-
-Popcornie protects you from spoilers by blocking answers that mention events beyond your current watch progress. If an answer is blocked, it means the information would reveal something you haven't seen yet. You can adjust your progress if you've watched further.
-
-### Where do my questions go?
-
-Questions you've asked are stored in your "Popcorn History" (Profile > Popcorn History). You can review past questions and their answers there.
-
-### What languages does Popcornie support?
-
-You can change the AI response language in Profile > AI Response Language. Popcornie supports 15+ languages including English, Turkish, Spanish, French, German, Chinese, Japanese, Korean, and more.
-
-## Troubleshooting
-
-### The app is not loading or crashing
-
-Try these steps:
-
-1. Close and reopen the app
-2. Restart your device
-3. Check for app updates in the App Store or Play Store
-4. Make sure you have a stable internet connection
-
-If the problem persists, use "Help & Feedback" to report the issue.
-
-### I'm not receiving my daily popcorns
-
-Daily popcorns reset at midnight UTC. Make sure you're connected to the internet when the reset happens. If you've waited and still don't see your popcorns, try logging out and back in.
-
-### The AI gave me a spoiler!
-
-We're very sorry this happened. While our spoiler protection is highly effective, no system is perfect. Please use "Help & Feedback" to let us know which show and question triggered this, so we can improve our protection.
-
-## Privacy & Data
+Current behavior includes a 30-day recovery window before permanent deletion is executed.
 
 ### What data does Popcornie collect?
 
-We collect only what's necessary to provide our service:
+Popcornie currently uses account data, show library data, watch progress, question history, purchase state, and related identifiers needed to run the service.
 
-- Account info (email, name from Apple/Google sign-in)
-- Your questions and show library
-- Watch progress you set
-- Purchase history
+See the published privacy policy for the current full description.
 
-We never sell your personal data. See our [Privacy Policy](privacy-policy.html) for full details.
+## Troubleshooting
 
-### Is my data secure?
+### The app is not loading or is crashing
 
-Yes. We use industry-standard encryption and security practices. Your data is stored securely, and authentication is handled through trusted providers (Apple, Google) and Supabase.
+Try:
 
----
+1. Close and reopen the app
+2. Restart the device
+3. Confirm network access
+4. Update to the latest version
 
-## Still have questions?
+If the problem continues, contact support at `ardanogay@hotmail.com`.
 
-Can't find the answer you're looking for? Use the **"Help & Feedback"** option in the app to send us a message. We'll get back to you as soon as possible!
+### I did not receive my weekly free popcorn
 
-We're always happy to hear your suggestions and feedback too.
+The free refill is scheduled for Friday at 12:00 UTC.
 
----
+If the refill still does not appear after that window:
 
-&copy; 2026 Popcornie. All rights reserved.
-Made with 🍿 for TV show fans everywhere.
+1. Reopen the app
+2. Sign out and sign back in
+3. Contact support if the issue continues
+
+### The AI gave me a spoiler
+
+No spoiler-protection system is perfect. Please send us:
+
+- show name
+- your saved progress
+- the exact question
+- the response you received
+
+Support contact:
+
+- `ardanogay@hotmail.com`
+
+## Third-party content note
+
+Popcornie uses TV metadata and imagery from TMDB. TMDB is not affiliated with or endorsing Popcornie.
