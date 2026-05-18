@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last Updated: 2026-05-02
+Last Updated: 2026-05-17
 
 ## 1. Agreement
 
@@ -35,13 +35,12 @@ By using the app, you represent that:
 
 ### 4.1 Creating an account
 
-Popcornie currently supports these sign-in methods:
+Popcornie currently supports account creation and sign-in through:
 
-- email and password
 - Apple Sign In
 - Google Sign In
 
-You are responsible for keeping your login credentials secure.
+You are responsible for keeping access to the Apple or Google account you use with Popcornie secure.
 
 ### 4.2 Account responsibility
 
@@ -89,7 +88,7 @@ Popcornie depends on third-party services, including:
 Important:
 
 - TMDB and other third-party content remain subject to their own rights and terms.
-- Popcornie is not endorsed by TMDB.
+- This product uses the TMDB API but is not endorsed or certified by TMDB.
 - AI responses may be incomplete, inaccurate, or imperfect.
 - We aim to reduce spoilers, but we do not guarantee that every response will be spoiler-free.
 
