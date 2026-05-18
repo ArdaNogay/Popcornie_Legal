@@ -1,6 +1,6 @@
 # Support and FAQ
 
-Last Updated: 2026-05-02
+Last Updated: 2026-05-17
 
 Use this page as the public support page for Popcornie.
 
@@ -33,9 +33,8 @@ Popcorns are the in-app units used to ask questions.
 
 ### Which sign-in methods are supported?
 
-Popcornie currently supports:
+Popcornie currently supports account creation and sign-in through:
 
-- email and password
 - Apple Sign In
 - Google Sign In
 
@@ -152,6 +151,12 @@ Support contact:
 
 - `ardanogay@hotmail.com`
 
-## Third-party content note
+## Data Sources and Credits
 
-Popcornie uses TV metadata and imagery from TMDB. TMDB is not affiliated with or endorsing Popcornie.
+Popcornie uses TV metadata and imagery from TMDB.
+
+This product uses the TMDB API but is not endorsed or certified by TMDB.
+
+TMDB:
+
+- `https://www.themoviedb.org`
